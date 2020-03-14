@@ -1,0 +1,11 @@
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\bin\Debug\netcoreapp3.1\BreakExercises.exe
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\bin\Debug\netcoreapp3.1\BreakExercises.deps.json
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\bin\Debug\netcoreapp3.1\BreakExercises.runtimeconfig.json
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\bin\Debug\netcoreapp3.1\BreakExercises.runtimeconfig.dev.json
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\bin\Debug\netcoreapp3.1\BreakExercises.dll
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\bin\Debug\netcoreapp3.1\BreakExercises.pdb
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\obj\Debug\netcoreapp3.1\BreakExercises.csprojAssemblyReference.cache
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\obj\Debug\netcoreapp3.1\BreakExercises.AssemblyInfoInputs.cache
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\obj\Debug\netcoreapp3.1\BreakExercises.AssemblyInfo.cs
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\obj\Debug\netcoreapp3.1\BreakExercises.dll
+C:\Users\Simona\Desktop\BreakHomework\BreakHomework\obj\Debug\netcoreapp3.1\BreakExercises.pdb
